@@ -32,6 +32,20 @@ I'm from Mogi Mirim, São Paulo :brazil:
 <img alt="Python" src="https://img.shields.io/badge/-Python-informational?style=flat-square&logo=Python&logoColor=white" />
 </p>
 
+#### Development Architectures
+
+- MVC
+- MVP
+- MVVM
+- Hexagonal Architecture
+
+#### Test
+
+- JUnit
+- Wiremock
+- RestAssured
+- Jest
+
 #### My stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dritoferro&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
