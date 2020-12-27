@@ -61,4 +61,4 @@ I'm from Mogi Mirim, São Paulo :brazil:
 <a href="https://github.com/dritoferro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=dritoferro.personal.page)
+![](https://visitor-badge.glitch.me/badge?page_id=dritoferro.personal.page.github)
