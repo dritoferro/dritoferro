@@ -4,7 +4,7 @@ I'm from Mogi Mirim, São Paulo :brazil:
 
 :office: <i>Backend Developer at [Dextra](https://www.dextra.com.br/)</i>
 
-:computer: <i>Analysis and Systems Development since 2016</i>
+:computer: <i>Systems Analysis and Development since 2016</i>
 
 <b>Things I code with</b>
 <p>
