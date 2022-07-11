@@ -30,6 +30,8 @@ I'm from Mogi Mirim, São Paulo :brazil:
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=Kubernetes&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-informational?style=flat-square&logo=Python&logoColor=white" />
+<img alt="Go" src="https://img.shields.io/badge/-Golang-informational?style=flat-square&logo=Golang&logoColor=white" />
+<img alt="Nestjs" src="https://img.shields.io/badge/-Nestjs-informational?style=flat-square&logo=Nestjs&logoColor=red" />
 </p>
 
 #### Development Architectures
