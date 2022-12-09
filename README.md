@@ -2,7 +2,7 @@
 
 I'm from Mogi Mirim, São Paulo :brazil:
 
-:office: <i>Backend Developer at [Kestraa](https://www.kestraa.com.br/)</i>
+:office: <i>Backend Developer at [Itaú](https://www.itau.com.br/)</i>
 
 :computer: <i>Systems Analysis and Development since 2016</i>
 
